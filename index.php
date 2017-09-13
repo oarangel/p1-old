@@ -18,11 +18,15 @@ $phrases = [
     }
 </style>
 
+<head>
+    <div class="center">
+        <h1>Oscar Rangel</h1>
+    </div>
+</head>
 
 <body>
 <div class="center">
-    <h1>Oscar Rangel</h1>
-    <img src='images/Oscar_Rangel.jpg'alt='Oscar Rangel Photograph'>
+    <img src='images/Oscar_Rangel.jpg' alt='Oscar Rangel Photograph'>
     <h2>About Me</h2>
 </div>
 
