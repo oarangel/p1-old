@@ -9,6 +9,10 @@ $phrases = [
 
 <!DOCTYPE html>
 <html>
+<head>
+    <title>OSCAR RANGEL P1</title>
+</head>
+
 <style>
     .center {
         text-align: center;
@@ -17,13 +21,11 @@ $phrases = [
         text-align: left;
     }
 </style>
-
-<head>
+<header>
     <div class="center">
         <h1>Oscar Rangel</h1>
     </div>
-</head>
-
+</header>
 <body>
 <div class="center">
     <img src='images/Oscar_Rangel.jpg' alt='Oscar Rangel Photograph'>
