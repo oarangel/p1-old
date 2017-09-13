@@ -6,21 +6,19 @@ $phrases = [
     'I have not failed. I\'ve just found 10,000 ways that won\'t work. - Thomas Edison',
 ];
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
     <title>OSCAR RANGEL P1</title>
+    <style>
+        .center {
+            text-align: center;
+        }
+        .left {
+            text-align: left;
+        }
+    </style>
 </head>
-
-<style>
-    .center {
-        text-align: center;
-    }
-    .left {
-        text-align: left;
-    }
-</style>
 <header>
     <div class="center">
         <h1>Oscar Rangel</h1>
