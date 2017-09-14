@@ -10,6 +10,7 @@ $phrases = [
 
 <!DOCTYPE html>
 <html>
+<!-- This Section of Code Generates the Display -->
 <head>
     <title>OSCAR RANGEL P1</title>
     <style>
@@ -23,23 +24,28 @@ $phrases = [
 <body>
 <header>
     <div class="center">
-        <h1>Oscar Rangel</h1>
+        <h1 style="font-family:Helvetica;">Oscar Rangel</h1>
     </div>
 </header>
 <div class="center">
     <img src='images/Oscar_Rangel.jpg' alt='Oscar Rangel Photograph'>
-    <h2>About Me</h2>
+    <h2 style="font-family: Tahoma">About Me</h2>
 </div>
 
 <div class="left">
-    <p> I am Senior Controls Engineer for the General Electric Company with a BSEE in Electrical Engineering from Tulane University.
-        My job involves replacing legacy electronics of Gas Turbine Power Generation units with the latest generation of controls and computer software.
-        With the increasing industrial demand for web based applications, this course is a good starting point for learning about dynamic, database-driven web applications.
-        In addition, it will be a good opportunity to learn about new server side web languages like PHP.
+    <p style="font-family:arial;"> I am Senior Controls Engineer with the General Electric Company.
+        I have a BSEE from Tulane University and a PE License from the State of Lousina.
+        My job involves replacing legacy electronics of Gas Turbine Power Generation units
+        with the latest generation of controls and computer software.
+        With the increasing industrial demand for web based applications,
+        this course is a good starting point for learning about dynamic,
+        database-driven web applications. In addition, it will be a good opportunity
+        to learn about new server side web languages like PHP.</p>
 </div>
 <div class="center">
-    <h2> Random Quote</h2>
-    <p>
+    <h2 style="font-family: Tahoma"> Random Quote</h2>
+    <p style="font-family:arial;">
+        <!-- The following line generates the random quotes -->
         <?=$phrases[mt_rand(0, count($phrases)-1)]; ?>
     </p>
 </div>
