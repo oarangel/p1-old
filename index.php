@@ -6,6 +6,8 @@ $phrases = [
     'I have not failed. I\'ve just found 10,000 ways that won\'t work. - Thomas Edison',
 ];
 ?>
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,13 +20,12 @@ $phrases = [
             text-align: left;
         }
     </style>
-</head>
+<body>
 <header>
     <div class="center">
         <h1>Oscar Rangel</h1>
     </div>
 </header>
-<body>
 <div class="center">
     <img src='images/Oscar_Rangel.jpg' alt='Oscar Rangel Photograph'>
     <h2>About Me</h2>
