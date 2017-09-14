@@ -1,5 +1,5 @@
 <?php
-/* This part of the PHP code that Declares the array with the Random Quotes Each Time the Code is Accessed*/
+/* This part of the PHP code Declares an array with the Random Quotes */
 $phrases = [
     'Imagination is more important than knowledge. -Albert Einstein',
     'All truths are easy to understand once they are discovered; the point is to discover them. - Galielo Galilei',
@@ -21,6 +21,7 @@ $phrases = [
             text-align: left;
         }
     </style>
+</head>
 <body>
 <header>
     <div class="center">
