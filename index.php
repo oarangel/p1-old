@@ -35,8 +35,8 @@ $phrases = [
 
 <div class="left">
     <p style="font-family:arial;"> I am Senior Controls Engineer with the General Electric Company.
-        I have a BSEE from Tulane University and a PE License from the State of Lousina.
-        My job involves replacing legacy electronics of Gas Turbine Power Generation units
+        I have a BSEE from Tulane University and a PE License from the State of Louisiana.
+        My job involves replacing legacy electronic components of Gas Turbines
         with the latest generation of controls and computer software.
         With the increasing industrial demand for web based applications,
         this course is a good starting point for learning about dynamic,
